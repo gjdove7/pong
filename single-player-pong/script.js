@@ -14,14 +14,14 @@ const gameOverEl = document.createElement('div');
 const paddleHeight = 10;
 const paddleWidth = 50;
 const paddleDiff = 25;
-let paddleBottomX = 225;
-let paddleTopX = 225;
+let paddleBottomX = 225; // player
+let paddleTopX = 225; // computer
 let playerMoved = false;
 let paddleContact = false;
 
 // Ball
-let ballX = 250;
-let ballY = 350;
+let ballX = 250; // ball x position
+let ballY = 350; // ball y position
 const ballRadius = 5;
 
 // Speed
