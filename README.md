@@ -1,6 +1,6 @@
 # Pong game
 
-Single player and multiplayer pong games, created with help from [ZTM](https://zerotomastery.io).
+Single player and multiplayer pong game implementations.
 
 ## Single player
 
